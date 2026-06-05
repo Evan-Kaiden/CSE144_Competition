@@ -39,4 +39,4 @@ At the time of submission we are in 3rd place
 Our report can be found in this repo at [CSE144_final_report.pdf](CSE144_final_report.pdf)
 
 ## Slides
-Anyone with an @ucsc.edu email can view our slides ([here](https://docs.google.com/presentation/d/18H2AimQoDK7GmZUq7fYJvx8FYNA4L1_eL4e61Z_yh6k/edit?usp=sharing))
+Anyone with an @ucsc.edu email can view our slides [here](https://docs.google.com/presentation/d/18H2AimQoDK7GmZUq7fYJvx8FYNA4L1_eL4e61Z_yh6k/edit?usp=sharing)
