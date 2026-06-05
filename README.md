@@ -30,6 +30,7 @@ python3 gather_test_preds.py \
 Single-fold weights are available for download [here](https://drive.google.com/file/d/1inQDS0OJAtrXXVqMCtXYL9DOrSH3xZho/view?usp=sharing).
 
 After downloading, place the weights in `dir/<weights>` so the test prediction script can locate them.
+Note: you will have to set `--path` in the inference script to the same `dir/<weights>` that you save the weights to, you cannot just run the hardcoded path above
 
 At the time of submission we are in 3rd place
 ![](place_on_leaderboard.png)
